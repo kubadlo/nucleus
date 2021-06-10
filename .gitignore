@@ -1,0 +1,12 @@
+# NodeJS
+node_modules/
+*.log
+
+# NextJS
+.next/
+
+# VS Code
+.vscode/
+
+# WebStorm
+.idea/
