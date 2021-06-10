@@ -10,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <p>It works!</p>
+        <p className="text-center text-gray-800">It works!</p>
       </main>
 
       <footer>&copy; 2021.</footer>
